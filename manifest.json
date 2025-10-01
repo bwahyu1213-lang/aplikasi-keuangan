@@ -1,10 +1,12 @@
-  {
+{
   "name": "Aplikasi Keuangan",
   "short_name": "Keuangan",
-  "start_url": "uang.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4facfe",
+  "orientation": "portrait",
+  "description": "Aplikasi untuk mencatat pemasukan, pengeluaran, dan saldo akhir.",
   "icons": [
     {
       "src": "icon-192.png",
